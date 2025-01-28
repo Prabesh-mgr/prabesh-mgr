@@ -16,16 +16,6 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a keen int
 - **Tools**: Git, GitHub, VS Code
 - **Others**: REST APIs, Web Accessibility, Responsive Design
 
-## 🔧 Current Projects
-### 1. **Real-Time Collaborative Workspace**
-A web application that allows users to collaborate in real-time through a shared drawing canvas and chat. Built with the MERN stack (MongoDB, Express, React, Node.js).
-
-### 2. **To-Do List**
-A simple to-do list application where users can add, edit, and delete tasks. Built using **JavaScript** and **localStorage** for persistence.
-
-### 3. **Tic-Tac-Toe**
-A classic Tic-Tac-Toe game implemented with **HTML**, **CSS**, and **JavaScript**. Playable in the browser with a simple and interactive interface.
-
 ## 💻 Let's Connect!
 - [LinkedIn](www.linkedin.com/in/
 prabesh-magar-9835782a4
