@@ -20,11 +20,11 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a keen int
 ### 1. **Real-Time Collaborative Workspace**
 A web application that allows users to collaborate in real-time through a shared drawing canvas and chat. Built with the MERN stack (MongoDB, Express, React, Node.js).
 
-### 2. **MyHouse**
-A platform for renting houses or rooms. Built with HTML, CSS, PHP, and MySQL.
+### 2. **To-Do List**
+A simple to-do list application where users can add, edit, and delete tasks. Built using **JavaScript** and **localStorage** for persistence.
 
-## 📈 GitHub Stats
-![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabesh-mgr&show_icons=true&count_private=true&theme=radical)
+### 3. **Tic-Tac-Toe**
+A classic Tic-Tac-Toe game implemented with **HTML**, **CSS**, and **JavaScript**. Playable in the browser with a simple and interactive interface.
 
 ## 💻 Let's Connect!
 - [LinkedIn](www.linkedin.com/in/
